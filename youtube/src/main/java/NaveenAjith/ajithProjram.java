@@ -6,6 +6,7 @@ public class ajithProjram {
 		System.out.println("Ajith kumar");
 		System.out.println("Shalini");
 		System.out.println("Aushya");
+		System.out.println("Son");
 
 	}
 
